@@ -1,7 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 4, 2017 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 4, 2017
 
 **Today's Progress**: Worked on refactoring some old code from my weather app codepen project to get it to display more reliably across browsers. Some of the code is broken now still, as my installation of Chrome is not displaying this properly but other browsers tested are. Took a look through the source code of my homepage (www.jakenelson.comxa.com) in preparation to refactor that at some point throughout the course of this challenge as well. 
 
