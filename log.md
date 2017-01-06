@@ -6,37 +6,33 @@
 
 **Thoughts:** CSS centering can be confusing and hard to remember the specifics of. A great resource for centering practically anything is available at (https://css-tricks.com/centering-css-complete-guide/).
 
-**Links to work:** [Weather App](http://codepen.io/JNelson180/pen/vGbvjp)
+**Links to work:** [Weather App](http://codepen.io/JNelson180/pen/vGbvjp), 
 [Jake Nelson](http://www.jakenelson.comxa.com)
 
 
-<!-- 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 5, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Added some of my more recent back end development projects to my site at (http://www.jakenelson.comxa.com). Set up a GitHub Page for my site.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Worked on refactoring some code in some of my older front-end projects like my weather app and weather dashboard.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Thinking about checking into WordPress and a new (paid) host for my site for the experience of it.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Links to work:** [Weather App](http://codepen.io/JNelson180/pen/vGbvjp), 
+[Jake Nelson](http://www.jakenelson.comxa.com)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+<!--
+https://metafile-js.herokuapp.com/
+https://github.com/jnelson180/metafile/
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+https://imglook.herokuapp.com/api/imagesearch/
+https://github.com/jnelson180/imglook
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+https://smurl-app.herokuapp.com/
+https://github.com/jnelson180/smurl-fcc
 
+https://fast-reaches-86182.herokuapp.com/
+https://github.com/jnelson180/timestamp-api...
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+add link to FCC profile to my site
 -->
