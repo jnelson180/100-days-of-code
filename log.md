@@ -21,6 +21,15 @@ Worked on refactoring some code in some of my older front-end projects like my w
 **Links to work:** [Weather App](http://codepen.io/JNelson180/pen/vGbvjp), 
 [Jake Nelson](http://www.jakenelson.comxa.com)
 
+
+### Day 2: January 6, 2017
+
+**Today's Progress:** Updated layout of my Github site. Added to do lists to some of my older front-end projects (http://www.codepen.io/JNelson180) to establish workflow for the next few coding sessions.
+
+**Thoughts:** Excited to be reviewing some of these projects, and excited with the progress I've made throughout my time spent with FreeCodeCamp so far.
+
+**Links to work:** [jnelson180 on Github](http://jnelson180.github.io)
+
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
@@ -35,4 +44,9 @@ https://fast-reaches-86182.herokuapp.com/
 https://github.com/jnelson180/timestamp-api...
 
 add link to FCC profile to my site
+https://www.freecodecamp.com/jnelson180\
+
+4a4a4a
+
+change resume site to github profile
 -->
