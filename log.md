@@ -30,6 +30,15 @@ Worked on refactoring some code in some of my older front-end projects like my w
 
 **Links to work:** [jnelson180 on Github](http://jnelson180.github.io)
 
+
+### Day 3: January 7, 2017
+
+**Today's Progress:** Finished updating my Github site. Messed around with my previously created Weather App for FreeCodeCamp. Decided I'm going to switch to Dark Sky API instead of OpenWeather API as the latter does not support HTTPS with their free service, leaving Chrome users out in the cold.
+
+**Thoughts:** Not much. I'm kind of disappointed that the HTTPS service isn't even offered to a developer/free account on OpenWeather API.
+
+**Links to work:** [jnelson180 on Github](http://jnelson180.github.io) [Weather App](https://codepen.io/JNelson180/pen/vGbvjp?editors=0010)
+
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
