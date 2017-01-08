@@ -39,6 +39,14 @@ Worked on refactoring some code in some of my older front-end projects like my w
 
 **Links to work:** [jnelson180 on Github](http://jnelson180.github.io) [Weather App](https://codepen.io/JNelson180/pen/vGbvjp?editors=0010)
 
+
+### Day 4: January 8, 2017
+
+**Today's Progress:** Started to change my weather app from IPAPI and OpenWeatherAPI to freegeoIP and Dark Sky API.
+
+**Thoughts:** HTTPS protocol really should be a service that's offered for any developer account.
+
+**Links to work:** [Weather App 2.0](https://codepen.io/JNelson180/pen/ggaOgL?editors=0010)
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
