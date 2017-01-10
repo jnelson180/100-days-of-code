@@ -47,6 +47,15 @@ Worked on refactoring some code in some of my older front-end projects like my w
 **Thoughts:** HTTPS protocol really should be a service that's offered for any developer account.
 
 **Links to work:** [Weather App 2.0](https://codepen.io/JNelson180/pen/ggaOgL?editors=0010)
+
+
+### Day 5: January 9, 2017
+
+**Today's Progress:** I started [JavaScript30](www.javascript30.com) today. Seems awesome. Wes Bos is a great instructor. I got inspired off of the first lesson, the JS Drum Kit, and started a [Javascript Piano App](http://codepen.io/JNelson180/pen/BpobRp?editors=1100).
+
+**Thoughts:** I love how open the coding community is, and how many people are willing to share their knowledge. It's really inspiring to see that.
+
+**Links to work:** [Javascript Piano App](http://codepen.io/JNelson180/pen/BpobRp?editors=1100)
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
