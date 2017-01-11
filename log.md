@@ -56,6 +56,17 @@ Worked on refactoring some code in some of my older front-end projects like my w
 **Thoughts:** I love how open the coding community is, and how many people are willing to share their knowledge. It's really inspiring to see that.
 
 **Links to work:** [Javascript Piano App](http://codepen.io/JNelson180/pen/BpobRp?editors=1100)
+
+
+### Day 6: January 10, 2017
+
+**Today's Progress:** Worked a little more on my Javascript Piano app today. I found out how to use LAME in the Ubuntu CLI to convert WAV files to MP3 and saved a ton of bandwidth for the project.
+
+**Thoughts:** I need to learn more command line tools and shortcuts in Linux. 
+
+**Links to work:** [Javascript Piano App](http://codepen.io/JNelson180/pen/BpobRp?editors=1100)
+
+
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
