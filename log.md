@@ -67,6 +67,13 @@ Worked on refactoring some code in some of my older front-end projects like my w
 **Links to work:** [Javascript Piano App](http://codepen.io/JNelson180/pen/BpobRp?editors=1100)
 
 
+### Day 7: January, 2017
+
+**Today's Progress:** Worked through Javascript 30 challenge of making a JS/CSS clock. Then tweaked the project it to make it my own: https://codepen.io/JNelson180/pen/apNBgE?editors=0110
+
+**Thoughts:** N/A.
+
+**Links to work:** [JS Clock](https://codepen.io/JNelson180/pen/apNBgE?editors=0110)
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
