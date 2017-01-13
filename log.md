@@ -67,13 +67,23 @@ Worked on refactoring some code in some of my older front-end projects like my w
 **Links to work:** [Javascript Piano App](http://codepen.io/JNelson180/pen/BpobRp?editors=1100)
 
 
-### Day 7: January, 2017
+### Day 7: January 11, 2017
 
 **Today's Progress:** Worked through Javascript 30 challenge of making a JS/CSS clock. Then tweaked the project it to make it my own: https://codepen.io/JNelson180/pen/apNBgE?editors=0110
 
 **Thoughts:** N/A.
 
 **Links to work:** [JS Clock](https://codepen.io/JNelson180/pen/apNBgE?editors=0110)
+
+
+### Day 8: January 12, 2017
+
+**Today's Progress:** Worked with JavaScript 30's lesson for Array Cardio, which was great to learn some of the new ES6 functions as well as solidify understanding of array.map, reduce, sort, and filter. Also finished up my JavaScript Clock project.
+
+**Thoughts:** I need to study these methods a little more. And get a new watch.
+
+**Links to work:** [JS Clock](https://codepen.io/JNelson180/pen/apNBgE?editors=0110)
+
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
