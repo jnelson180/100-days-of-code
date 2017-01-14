@@ -84,6 +84,15 @@ Worked on refactoring some code in some of my older front-end projects like my w
 
 **Links to work:** [JS Clock](https://codepen.io/JNelson180/pen/apNBgE?editors=0110)
 
+
+### Day 9: January 13, 2017
+
+**Today's Progress:** Started working on rolling my own proxy server, which depending on the technical difficulty, I may decide to host on my Raspberry Pi for home use.
+
+**Thoughts:** Seems to work OK over HTTP, on localhost. Wondering how hard it will be to get it up and running over HTTPS as well, and on my Pi.
+
+**Links to work:** [Proxy](https://github.com/jnelson180/proxy)
+
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
