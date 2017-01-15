@@ -93,6 +93,17 @@ Worked on refactoring some code in some of my older front-end projects like my w
 
 **Links to work:** [Proxy](https://github.com/jnelson180/proxy)
 
+
+### Day 10: January 14, 2017
+
+**Today's Progress:** Continued working on my proxy server experiment. It works great for a quick Google search right now. I am having an issue getting the clicked URLS from said search to pass correctly through the proxy though. I plan to work on that more in the future, however...
+
+**Thoughts:** With some introspection I have decided that I need to spend more time trying to learn React and get back on track to finish my FreeCodeCamp back-end projects. This project will probably be put on hold for now in an attempt to free up more time to learn React and work FCC.
+
+I have no doubt that using more NPM modules would ease this process, however I am enjoying the challenge a bit too much to add any more dependencies currently.
+
+**Links to work:** [Proxy](https://github.com/jnelson180/proxy)
+
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
