@@ -107,9 +107,9 @@ I have no doubt that using more NPM modules would ease this process, however I a
 
 ### Day 11: January 15, 2017
 
-***Today's Progress:** Working with React, learning how to make a basic Tic Tac Toe game. Still some work to do. 
+**Today's Progress:* Working with React, learning how to make a basic Tic Tac Toe game. Still some work to do. 
 
-***Thoughts:*** I plan on going back and refactoring a few of my first front end projects from FreeCodeCamp once I get a good handle on React.
+**Thoughts:** I plan on going back and refactoring a few of my first front end projects from FreeCodeCamp once I get a good handle on React.
 
 **Links to work:** [React Tic Tac Toe](https://codepen.io/JNelson180/pen/MJjwQN?editors=0011)
 
