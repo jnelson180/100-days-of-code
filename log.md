@@ -113,6 +113,15 @@ I have no doubt that using more NPM modules would ease this process, however I a
 
 **Links to work:** [React Tic Tac Toe](https://codepen.io/JNelson180/pen/MJjwQN?editors=0011)
 
+
+### Day 12: January 16, 2017
+
+**Today's Progress:* Worked on gettiny my motivational quotes app running on an API instead of hardcoded quotes. Also uploaded a couple of projects to GitHub.
+
+**Thoughts:** I am planning to do some research on CORS and http requests from https domains. crossorigin.me seems useful, but I don't want to rely on it if I don't have to. I'd also like to avoid any libraries in this endeavor if possible.
+
+**Links to work:** [My Repositories](https://github.com/jnelson180?tab=repositories)
+
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
