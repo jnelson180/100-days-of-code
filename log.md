@@ -122,6 +122,15 @@ I have no doubt that using more NPM modules would ease this process, however I a
 
 **Links to work:** [My Repositories](https://github.com/jnelson180?tab=repositories)
 
+
+### Day 13: January 16, 2017
+
+**Today's Progress:* Worked some more on my motivational quotes app. Now using data from an API instead of hard coded quotes array.
+
+**Thoughts:** Still need to do more CORS / cross origin research.
+
+**Links to work:** [Motivational Quote Generator](http://codepen.io/JNelson180/pen/yOZJxQ)
+
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
