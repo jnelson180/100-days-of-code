@@ -2,11 +2,11 @@
 
 ### Day 0: January 4, 2017
 
-**Today's Progress**: Worked on refactoring some old code from my weather app codepen project to get it to display more reliably across browsers. Some of the code is broken now still, as my installation of Chrome is not displaying this properly but other browsers tested are. Took a look through the source code of my homepage (www.jakenelson.comxa.com) in preparation to refactor that at some point throughout the course of this challenge as well. 
+**Today's Progress**: Worked on refactoring some old code from my weather app codepen project to get it to display more reliably across browsers. Some of the code is broken now still, as my installation of Chrome is not displaying this properly but other browsers tested are. Took a look through the source code of my homepage (www.jakenelson.comxa.com) in preparation to refactor that at some point throughout the course of this challenge as well.
 
 **Thoughts:** CSS centering can be confusing and hard to remember the specifics of. A great resource for centering practically anything is available at (https://css-tricks.com/centering-css-complete-guide/).
 
-**Links to work:** [Weather App](http://codepen.io/JNelson180/pen/vGbvjp), 
+**Links to work:** [Weather App](http://codepen.io/JNelson180/pen/vGbvjp),
 [Jake Nelson](http://www.jakenelson.comxa.com)
 
 
@@ -18,7 +18,7 @@ Worked on refactoring some code in some of my older front-end projects like my w
 
 **Thoughts:** Thinking about checking into WordPress and a new (paid) host for my site for the experience of it.
 
-**Links to work:** [Weather App](http://codepen.io/JNelson180/pen/vGbvjp), 
+**Links to work:** [Weather App](http://codepen.io/JNelson180/pen/vGbvjp),
 [Jake Nelson](http://www.jakenelson.comxa.com)
 
 
@@ -62,7 +62,7 @@ Worked on refactoring some code in some of my older front-end projects like my w
 
 **Today's Progress:** Worked a little more on my Javascript Piano app today. I found out how to use LAME in the Ubuntu CLI to convert WAV files to MP3 and saved a ton of bandwidth for the project.
 
-**Thoughts:** I need to learn more command line tools and shortcuts in Linux. 
+**Thoughts:** I need to learn more command line tools and shortcuts in Linux.
 
 **Links to work:** [Javascript Piano App](http://codepen.io/JNelson180/pen/BpobRp?editors=1100)
 
@@ -107,7 +107,7 @@ I have no doubt that using more NPM modules would ease this process, however I a
 
 ### Day 11: January 15, 2017
 
-**Today's Progress:* Working with React, learning how to make a basic Tic Tac Toe game. Still some work to do. 
+**Today's Progress:* Working with React, learning how to make a basic Tic Tac Toe game. Still some work to do.
 
 **Thoughts:** I plan on going back and refactoring a few of my first front end projects from FreeCodeCamp once I get a good handle on React.
 
@@ -123,7 +123,7 @@ I have no doubt that using more NPM modules would ease this process, however I a
 **Links to work:** [My Repositories](https://github.com/jnelson180?tab=repositories)
 
 
-### Day 13: January 16, 2017
+### Day 13: January 17, 2017
 
 **Today's Progress:* Worked some more on my motivational quotes app. Now using data from an API instead of hard coded quotes array.
 
@@ -131,6 +131,14 @@ I have no doubt that using more NPM modules would ease this process, however I a
 
 **Links to work:** [Motivational Quote Generator](http://codepen.io/JNelson180/pen/yOZJxQ)
 
+
+### Day 14: January 19, 2017
+
+**Today's Progress:* Worked on some CSS tips and some Node tips through Enki. Exported my weather app to my github profile, and set up my new laptop development environment
+
+**Thoughts:** Still need to do more CORS / cross origin research.
+
+**Links to work:** [Weather App](https://github.com/jnelson180/weather-app)
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
