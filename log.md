@@ -139,6 +139,19 @@ I have no doubt that using more NPM modules would ease this process, however I a
 **Thoughts:** Still need to do more CORS / cross origin research.
 
 **Links to work:** [Weather App](https://github.com/jnelson180/weather-app)
+
+
+### Day 15: January 21, 2017
+
+**Today's Progress:* Wrote a new codepen to mess around with forms and get some solid practice in on the topic.
+
+**Thoughts:** Still need to do more CORS / cross origin research.
+
+**Links to work:** [Forms Practice](http://codepen.io/JNelson180/pen/QdpVxj?editors=1011)
+
+
+
+
 <!--
 https://metafile-js.herokuapp.com/
 https://github.com/jnelson180/metafile/
